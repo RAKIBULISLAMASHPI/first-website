@@ -10,6 +10,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .demo1 img{
     width: 80%;
@@ -31,4 +32,10 @@ section{
 .demo4{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+.demo5{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
